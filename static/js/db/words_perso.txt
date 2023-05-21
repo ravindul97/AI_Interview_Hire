@@ -1,0 +1,8 @@
+WORDS,FREQ
+hi,1
+ravindu,1
+like,2
+data,1
+sciencei,1
+raju,1
+thank,1
